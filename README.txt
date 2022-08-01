@@ -1,10 +1,10 @@
-Author: Flora233
-School: XTU TI Laboratory
+#Author: Flora233
+#School: XTU TI Laboratory
 
 Just Configure The USART, Not Write Related Programs Of Bluetooth
 
 /*
--------------------------------------对应表--------------------------------------
+-------------------------------Correspondence table----------------------------
    Motor:                     GPIOB PIN 12 13 14 15                              
    MPU6050:                   GPIOB PIN 8 9                                                                   
    PWM:                       TIM2_CH3, TIM2_CH4
