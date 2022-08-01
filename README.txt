@@ -1,5 +1,5 @@
-#Author: Flora233
-#School: XTU TI Laboratory
+*Author: Flora233
+*School: XTU TI Laboratory
 
 Just Configure The USART, Not Write Related Programs Of Bluetooth
 
