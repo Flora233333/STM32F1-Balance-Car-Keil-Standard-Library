@@ -3,6 +3,7 @@
 
 Just Configure The USART, Not Write Related Programs Of Bluetooth
 
+Thanks For ZhengDianYuanZi's Some Modules Program
 
 -------------------------------Correspondence Table----------------------------
    Motor:                     GPIOB PIN 12 13 14 15                              
