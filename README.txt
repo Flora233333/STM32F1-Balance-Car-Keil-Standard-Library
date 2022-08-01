@@ -1,17 +1,17 @@
-作者:Flora233
-学校:湘潭大学TI实验室
+Author: Flora233
+School: XTU TI Laboratory
 
-仅配置好了串口,还没有写蓝牙相关程序
+Just Configure The USART, Not Write Related Programs Of Bluetooth
 
 /*
 -------------------------------------对应表--------------------------------------
-   电机:                      GPIOB PIN 12 13 14 15                              
+   Motor:                     GPIOB PIN 12 13 14 15                              
    MPU6050:                   GPIOB PIN 8 9                                                                   
    PWM:                       TIM2_CH3, TIM2_CH4
-   编码器:                     TIM3, TIM4
-   定时器中断:                 TIM1
-   蓝牙:                       USART3 GPIOB PIN 10 11
+   Encoder:                   TIM3, TIM4
+   TIM_IT:                    TIM1
+   USART:                     USART3 GPIOB PIN 10 11
 -------------------------------------------------------------------------------
 */
 
-大一 2022年8月1日 
+University First Grade 2022.8.1 
